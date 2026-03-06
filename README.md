@@ -1,5 +1,10 @@
 # 📰 Fake News Detection System
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
+![NLP](https://img.shields.io/badge/NLP-TFIDF-green)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
+
 A **Machine Learning pipeline** that classifies news articles as **Real** or **Fake** using **TF-IDF vectorization** and two classifiers:
 
 * **Logistic Regression**
