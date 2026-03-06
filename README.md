@@ -20,6 +20,13 @@ You can interact with the trained model through:
 
 ---
 
+## Live Demo
+
+Try the application online:
+
+https://fake-news-detection-true-vs-fake.streamlit.app
+
+
 # 📁 Dataset
 
 This project uses the **Fake and Real News Dataset** from Kaggle:
